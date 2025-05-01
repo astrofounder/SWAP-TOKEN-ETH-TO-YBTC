@@ -27,12 +27,11 @@ Skrip Python ini dirancang untuk melakukan swap Ether (ETH) ke token ERC20 terte
 
 ## Setup
 
-1.  **Clone Repositori (jika dari GitHub):**
+1.  **Clone Repositori:**
     ```bash
-    git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-    cd REPOSITORY_NAME
+    git clone https://github.com/astrofounder/SWAP-TOKEN-ETH-TO-YBTC.git
+    cd SWAP-TOKEN-ETH-TO-YBTC
     ```
-    (Ganti `USERNAME` dan `REPOSITORY_NAME` dengan nama pengguna dan repo Anda)
 
 2.  **Instal Dependensi:**
     ```bash
